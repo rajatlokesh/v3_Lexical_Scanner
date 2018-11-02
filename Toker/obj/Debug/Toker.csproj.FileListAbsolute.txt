@@ -1,0 +1,31 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\bin\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\obj\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_toker\Toker\obj\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\bin\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\obj\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\obj\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\obj\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\obj\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\bin\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Toker\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\bin\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\obj\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner\Toker\obj\Debug\Toker.pdb

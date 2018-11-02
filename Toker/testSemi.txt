@@ -1,0 +1,31 @@
+{{
+#if(Test)
+  StringBuilder temp = new StringBuilder(); // line of scope start
+  temp.Append("{");
+  for(int i=0; i<4; ++i)
+       p = i*j*k;
+}
+/*this
+* is a multiline comment
+*/	  
+char ch = '\n';
+  temp.Append(String.Format("{0,-10}", name)).Append(" : ");
+  temp.Append(String.Format("{0,-5}", beginLine.ToString()));  // line of scope start
+  temp.Append(String.Format("{0,-5}", endLine.ToString()));    // line of scope end
+  temp.Append("}");
+  return temp.ToString();
+#endif
+}
+
+int i;
+// a C++ comment
+double d;
+
+string s = "\n";
+this is a final line with one semiExp; followed by some text
+
+int p;
+for(int i=0; i<4; ++i)
+  for(int j=0; j<5; ++j)
+    for(int k=0; k<2; ++k)
+      p = i*j*k;

@@ -1,0 +1,165 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Tue Oct  9 18:51:33 2018
+     Path: "C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\Final Submission\v3_Lexical_Scanner"
+     Args: *.h, *.cpp, *.cs, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     193
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            ATokenState.cs   namespace                              Toker      42      85      14
+            ATokenState.cs       class                         TokenState      48      69      11
+            ATokenState.cs    function                               open      52       3       1
+            ATokenState.cs    function                          nextState      59      49       7
+            ATokenState.cs    function                             isDone     109       6       1
+            ATokenState.cs       class                         demoAState     118       8       2
+            ATokenState.cs    function                               Main     121       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          DerivedStates.cs   namespace                              Toker      45     294      48
+          DerivedStates.cs       class                         AlphaState      49      29       5
+          DerivedStates.cs    function                         AlphaState      51       3       1
+          DerivedStates.cs    function                    isLetterOrDigit      56       7       1
+          DerivedStates.cs    function                             getTok      66      10       2
+          DerivedStates.cs       class                       CommentState      79      20       4
+          DerivedStates.cs    function                       CommentState      81       3       1
+          DerivedStates.cs    function                             getTok      87       9       2
+          DerivedStates.cs       class                  MultiCommentState     102      32       7
+          DerivedStates.cs    function                  MultiCommentState     104       3       1
+          DerivedStates.cs    function                             getTok     109      23       5
+          DerivedStates.cs       class                         PunctState     137      31       5
+          DerivedStates.cs    function                         PunctState     140       3       1
+          DerivedStates.cs    function                      isPunctuation     146       7       1
+          DerivedStates.cs    function                             getTok     156      10       2
+          DerivedStates.cs       class                       QStringState     170      28       5
+          DerivedStates.cs    function                       QStringState     172       3       1
+          DerivedStates.cs    function                             escape     178       3       1
+          DerivedStates.cs    function                             getTok     184      12       2
+          DerivedStates.cs       class                  SingleSpecialChar     200      20       3
+          DerivedStates.cs    function                  SingleSpecialChar     202       3       1
+          DerivedStates.cs    function                             getTok     211       5       1
+          DerivedStates.cs       class             DoubleSpecialCharState     222      21       3
+          DerivedStates.cs    function             DoubleSpecialCharState     224       3       1
+          DerivedStates.cs    function                             getTok     233       6       1
+          DerivedStates.cs       class                      SQStringState     245      28       5
+          DerivedStates.cs    function                      SQStringState     247       3       1
+          DerivedStates.cs    function                             escape     251       3       1
+          DerivedStates.cs    function                             getTok     259      12       2
+          DerivedStates.cs       class                    WhiteSpaceState     277      30       5
+          DerivedStates.cs    function                    WhiteSpaceState     279       3       1
+          DerivedStates.cs    function                       isWhiteSpace     285       7       1
+          DerivedStates.cs    function                             getTok     295      10       2
+          DerivedStates.cs       class                       NewLineState     307      32       5
+          DerivedStates.cs    function                       NewLineState     309       3       1
+          DerivedStates.cs    function                          isNewLine     315       7       1
+          DerivedStates.cs    function                             getTok     325      12       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         ITokCollection.cs   namespace                     SemiExpression      45       6       2
+         ITokCollection.cs   interface                     ITokCollection      47       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             Interfaces.cs   namespace                              Toker      30      19       4
+             Interfaces.cs   interface                       ITokenSource      33       9       2
+             Interfaces.cs   interface                        ITokenState      43       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Semi_Exp.cs   namespace                     SemiExpression      45     167      30
+               Semi_Exp.cs       class                            SemiExp      48      88      18
+               Semi_Exp.cs    function                               Open      52       3       1
+               Semi_Exp.cs    function                               done      56       3       1
+               Semi_Exp.cs    function                             Gettok      60       9       2
+               Semi_Exp.cs    function                             semiex      70      14       3
+               Semi_Exp.cs    function                       forcondition      85      17       3
+               Semi_Exp.cs    function                          WholeSemi     103      11       3
+               Semi_Exp.cs    function                       endcondition     115      13       2
+               Semi_Exp.cs    function                            getSemi     129       5       1
+               Semi_Exp.cs       class                          Demo_semi     136      75      11
+               Semi_Exp.cs    function                          Test_semi     138      30       4
+               Semi_Exp.cs    function                         Test_inter     169       6       1
+               Semi_Exp.cs    function                     Test_semi_here     176      21       4
+               Semi_Exp.cs    function                               Main     199       8       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestExecutive.cs   namespace                           TestExec      46     219      19
+          TestExecutive.cs       class                      TestExecutive      49     216      18
+          TestExecutive.cs    function                              Test2      51      19       4
+          TestExecutive.cs    function                              using      56      12       3
+          TestExecutive.cs    function                              Test3      71      27       4
+          TestExecutive.cs    function                         Test4abdef      99       9       1
+          TestExecutive.cs    function                             Test4c     109       8       1
+          TestExecutive.cs    function                              Test5     118      13       1
+          TestExecutive.cs    function                              Test6     132      17       1
+          TestExecutive.cs    function                              Test7     150       6       1
+          TestExecutive.cs    function                              Test8     157       6       1
+          TestExecutive.cs    function                              Test9     164      15       1
+          TestExecutive.cs    function                             Test10     180      10       1
+          TestExecutive.cs    function                               Main     191      71       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           TokenContext.cs   namespace                              Toker      42      56      21
+           TokenContext.cs       class                       TokenContext      49      38      18
+           TokenContext.cs    function                       TokenContext      53      17       3
+           TokenContext.cs       class                     demoTokContext      88       9       2
+           TokenContext.cs    function                               Main      92       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        TokenSourceFile.cs   namespace                              Toker      40     130      22
+        TokenSourceFile.cs       class                    TokenSourceFile      42     117      19
+        TokenSourceFile.cs    function                    TokenSourceFile      49       3       1
+        TokenSourceFile.cs    function                               open      55      13       3
+        TokenSourceFile.cs    function                              close      71       3       1
+        TokenSourceFile.cs    function                               next      80      18       3
+        TokenSourceFile.cs    function                           peeknext     110      21       4
+        TokenSourceFile.cs    function                               peek     132      19       4
+        TokenSourceFile.cs    function                                end     154       3       1
+        TokenSourceFile.cs       class                     demoTokSrcFile     160       9       2
+        TokenSourceFile.cs    function                               Main     164       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Toker.cs   namespace                              Toker      63     213      32
+                  Toker.cs       class                              Toker      71      77      13
+                  Toker.cs    function                              Toker      77       3       1
+                  Toker.cs    function                               open      86       5       1
+                  Toker.cs    function                     setspecialchar      93       4       1
+                  Toker.cs    function                    setdspecialchar      99       4       1
+                  Toker.cs    function                     getspecialchar     105       3       1
+                  Toker.cs    function                    getdspecialchar     110       3       1
+                  Toker.cs    function                              close     115       3       1
+                  Toker.cs    function                  isWhiteSpaceToken     121       3       1
+                  Toker.cs    function                             getTok     126      11       2
+                  Toker.cs    function                             isDone     140       5       1
+                  Toker.cs    function                          lineCount     144       2       1
+                  Toker.cs       class                          DemoToker     153     122      18
+                  Toker.cs    function                         testTokera     155      43       8
+                  Toker.cs    function                     setspecialchar     164       1       1
+                  Toker.cs    function                    setdspecialchar     165       1       1
+                  Toker.cs    function                            test5to     199      25       4
+                  Toker.cs    function                          testToker     225      22       4
+                  Toker.cs    function                               Main     249      24       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestExecutive.cs    function                               Main     191      71       1
+
+
+
+    searched    32 dirs
+   processed    21 files

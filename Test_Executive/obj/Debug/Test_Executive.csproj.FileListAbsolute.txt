@@ -1,0 +1,14 @@
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Test_Executive\obj\Debug\Test_Executive.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v2_Lexical Scanner\Test_Executive\obj\Debug\Test_Executive.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\obj\Debug\Test_Executive.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\obj\Debug\Test_Executive.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\Test_Executive.exe.config
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\Test_Executive.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\Test_Executive.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\SemiExpress.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\Toker.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\SemiExpress.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\obj\Debug\Test_Executive.csproj.CopyComplete
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\obj\Debug\Test_Executive.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\Project 2\v3_Lexical_Scanner\Test_Executive\obj\Debug\Test_Executive.pdb
